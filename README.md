@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+Date created: 10 January 2020
 
 ### Project Title
-Replace the Project Title
+Introduction to Version Control - Project
 
 ### Description
-Describe what your project is about and what it does
+This project concludes the course "Introduction to Version Control" by Udacity
 
 ### Files used
-Include the files used
+Files used: README.md ; bikeshare.py, .gitignore
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+No external source was used during the submission
